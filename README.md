@@ -1,4 +1,4 @@
-# SapCap Version: 1 [Beta]
+# SapCap V1 [Beta]
 
 Sapcap, The ultimate mcpe/mcbe pvp texture pack.
 By using it you will be abel to remove all the particles 
