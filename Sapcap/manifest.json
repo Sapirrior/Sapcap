@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§9by Andiuber §7© Team Cubitos MC\n§ghttps://www.cubitosmc.com",
+        "name": "§6Resource_§dBed§bWars",
+        "uuid": "01334532-462a-9c36-34b0-521658105769",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "013f6099-5323-44b6-b326-398005028808",
+            "version": [0, 0, 1]
+        }
+    ]
+}
